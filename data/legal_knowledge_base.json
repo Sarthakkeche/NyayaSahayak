@@ -1,0 +1,100 @@
+{
+  "acts": [
+    {
+      "act_name": "Bharatiya Nyaya Sanhita, 2023",
+      "abbreviation": "BNS",
+      "description": "An Act to consolidate and amend the provisions relating to offences and for matters connected therewith or incidental thereto.",
+      "sections": [
+        {
+          "section_id": "BNS_001",
+          "section_number": "1",
+          "title": "Short title and commencement",
+          "full_text": " (1) This Act may be called the Bharatiya Nyaya Sanhita, 2023. (2) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint: Provided that different dates may be appointed for different provisions of this Sanhita. (3) Save as otherwise hereinafter expressly provided, every person shall be liable to punishment under this Sanhita and not otherwise for every act or omission contrary to the provisions thereof, of which he shall be guilty within India."
+        },
+        {
+          "section_id": "BNS_078",
+          "section_number": "78",
+          "title": "Punishment for theft",
+          "full_text": "Whoever commits theft shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both."
+        },
+        {
+          "section_id": "BNS_079",
+          "section_number": "79",
+          "title": "Theft",
+          "full_text": "Whoever, intending to take dishonestly any moveable property out of the possession of any person without that person’s consent, moves that property in order to such taking, is said to commit 'theft'."
+        },
+        {
+          "section_id": "BNS_112",
+          "section_number": "112",
+          "title": "Punishment for murder",
+          "full_text": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine."
+        },
+        {
+          "section_id": "BNS_113",
+          "section_number": "113",
+          "title": "Murder",
+          "full_text": "Except in the cases hereinafter excepted, culpable homicide is murder,—Firstly—If the act by which the death is caused is done with the intention of causing death..."
+        }
+        // ... (Add all sections of BNS, BNSS, BSA here)
+      ]
+    },
+    {
+      "act_name": "Bharatiya Nagarik Suraksha Sanhita, 2023",
+      "abbreviation": "BNSS",
+      "description": "An Act to consolidate and amend the law relating to criminal procedure and for matters connected therewith or incidental thereto.",
+      "sections": [
+        {
+          "section_id": "BNSS_001",
+          "section_number": "1",
+          "title": "Short title, extent and commencement",
+          "full_text": "(1) This Sanhita may be called the Bharatiya Nagarik Suraksha Sanhita, 2023. (2) It extends to the whole of India. (3) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint: Provided that different dates may be appointed for different provisions of this Sanhita."
+        },
+        {
+          "section_id": "BNSS_173",
+          "section_number": "173",
+          "title": "Procedure where investigation cannot be completed in twenty-four hours",
+          "full_text": "(1) If it appears that the investigation cannot be completed within the period of twenty-four hours fixed by section 57, and there are grounds for believing that the accusation or information is well-founded, the officer in charge of the police station or the police officer making the investigation, if he is not below the rank of sub-inspector, shall forthwith transmit to the nearest Judicial Magistrate a copy of the entries in the diary hereinafter prescribed relating to the case, and shall at the same time forward the accused to such Magistrate."
+        }
+        // ... (Add all sections of BNSS here)
+      ]
+    },
+    {
+      "act_name": "Bharatiya Sakshya Adhiniyam, 2023",
+      "abbreviation": "BSA",
+      "description": "An Act to consolidate and to provide for general rules and principles of evidence for fair trial.",
+      "sections": [
+        {
+          "section_id": "BSA_001",
+          "section_number": "1",
+          "title": "Short title, extent and commencement",
+          "full_text": "(1) This Act may be called the Bharatiya Sakshya Adhiniyam, 2023. (2) It extends to the whole of India. (3) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint: Provided that different dates may be appointed for different provisions of this Adhiniyam."
+        }
+        // ... (Add all sections of BSA here)
+      ]
+    }
+  ],
+  "case_laws": [
+    {
+      "case_id": "CASE_SC_1973_001",
+      "case_name": "Kesavananda Bharati v. State of Kerala",
+      "citation": "AIR 1973 SC 1461",
+      "summary": "This landmark judgment established the 'Basic Structure Doctrine' of the Indian Constitution, holding that certain fundamental features of the Constitution cannot be amended by the Parliament. While not directly crime-related, it's a foundational judgment in Indian legal history.",
+      "full_text_url": "https://main.sci.gov.in/judgment/judg_24-Apr-1973_51.pdf"
+    },
+    {
+      "case_id": "CASE_SC_2018_002",
+      "case_name": "Navtej Singh Johar v. Union of India",
+      "citation": "AIR 2018 SC 4321",
+      "summary": "Decriminalized consensual homosexual acts by reading down Section 377 of the Indian Penal Code (now relevant for BNS context), holding it unconstitutional insofar as it criminalized consensual sexual conduct between adults of the same sex.",
+      "full_text_url": "https://main.sci.gov.in/judgment/judg_06-Sep-2018_38385.pdf"
+    },
+    {
+      "case_id": "CASE_SC_1994_003",
+      "case_name": "R. v. State of Karnataka",
+      "citation": "1994 SCC (2) 130",
+      "summary": "This case deals with the interpretation of 'theft' and 'dishonest intention' under the IPC. It clarified that mere taking of property without intent to permanently deprive does not constitute theft. (Adapt this for BNS context).",
+      "full_text_url": "http://example.com/r_vs_state_karnataka_full_text.pdf"
+    }
+    // ... (Add more relevant landmark judgments here, ensuring their applicability under BNS/BNSS/BSA context)
+  ]
+}

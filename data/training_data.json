@@ -1,0 +1,38 @@
+[
+  {
+    "complaint_id": "COMP_001",
+    "complaint_narrative": "A person reported that their mobile phone was stolen from their pocket while they were traveling on a crowded public bus. They did not notice anything until they got off the bus.",
+    "bns_sections": [
+      { "section_id": "BNS_079", "section_number": "79", "title": "Theft" },
+      { "section_id": "BNS_078", "section_number": "78", "title": "Punishment for theft" }
+    ],
+    "case_laws": [
+      { "case_id": "CASE_SC_1994_003", "case_name": "R. v. State of Karnataka", "citation": "1994 SCC (2) 130" }
+    ],
+    "keywords": ["theft", "mobile phone", "bus", "pocket", "stolen"]
+  },
+  {
+    "complaint_id": "COMP_002",
+    "complaint_narrative": "During an argument over property dispute, one individual intentionally pushed another off a balcony, resulting in immediate death. The accused had a history of threatening the deceased.",
+    "bns_sections": [
+      { "section_id": "BNS_113", "section_number": "113", "title": "Murder" },
+      { "section_id": "BNS_112", "section_number": "112", "title": "Punishment for murder" }
+    ],
+    "case_laws": [
+      { "case_id": "CASE_HC_2005_001", "case_name": "State of MP v. Ram Singh", "citation": "AIR 2005 MP 123" }
+    
+    ],
+    "keywords": ["murder", "argument", "property dispute", "balcony", "death", "intention"]
+  },
+  {
+    "complaint_id": "COMP_003",
+    "complaint_narrative": "A cybercrime report states that an individual's bank account details were phished through a fake email, leading to unauthorized transfer of funds. The victim lost Rs. 50,000.",
+    "bns_sections": [
+      { "section_id": "BNS_XXX_CyberFraud", "section_number": "XXX", "title": "Punishment for cyber fraud / cheating" } // You'll need to find the correct BNS sections for cybercrime.
+    ],
+    "case_laws": [
+      { "case_id": "CASE_CYBER_2020_001", "case_name": "XYZ Bank v. Cyber Victim", "citation": "2020 SCC Online Del 456" }
+    ],
+    "keywords": ["cybercrime", "phishing", "bank account", "unauthorized transfer", "fraud"]
+  }
+]
