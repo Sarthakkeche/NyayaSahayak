@@ -1,4 +1,12 @@
 # main.py
+@app.get("/")
+def home():
+    return {
+        "status": "running",
+        "service": "NyayaSahayak Backend",
+        "message": "Use /docs or POST /analyze"
+    }
+
 import json
 from typing import List
 
