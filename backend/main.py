@@ -1,11 +1,5 @@
 # main.py
-@app.get("/")
-def home():
-    return {
-        "status": "running",
-        "service": "NyayaSahayak Backend",
-        "message": "Use /docs or POST /analyze"
-    }
+
 
 import json
 from typing import List
@@ -26,7 +20,13 @@ app = FastAPI(
     description="Simplify incident text and map to BNS legal sections using enriched dataset.",
     version="0.4.0",
 )
-
+@app.get("/")
+def home():
+    return {
+        "status": "running",
+        "service": "NyayaSahayak Backend",
+        "message": "Use /docs or POST /analyze"
+    }
 # CORS for Vite dev server
 origins = [
     "http://localhost:5173",
